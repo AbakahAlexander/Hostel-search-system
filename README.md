@@ -1,2 +1,2 @@
 # Hostel-search-system
-A code to help students search for hostels around KNUST
+A code to help students search for hostels
